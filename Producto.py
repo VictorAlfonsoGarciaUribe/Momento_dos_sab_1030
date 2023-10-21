@@ -53,6 +53,7 @@ def agregar_producto():
 
 # Menú 
 while True:
+    print("Victor Alfonso Garcia Uribe sabados 10:30")
     print("Menú:")
     print("1. Agregar Producto")
     print("2. Listar Productos")
@@ -67,3 +68,4 @@ while True:
         break
     else:
         print("Opción no válida. Por favor, seleccione una opción válida.")
+        
